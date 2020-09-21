@@ -262,6 +262,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <Content Include="Views\PageContent\BodyCopy.cshtml" />
+    <Content Include="Views\PageContent\HeroImage.cshtml" />
     <None Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
